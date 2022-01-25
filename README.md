@@ -1,5 +1,5 @@
 <h2>Web Scraping</h2>
-<hr>
+
 
 Este é um repositório no qual vou inserir códigos de extração de dados da web utilizando duas bibliotecas: <b> Selenium</b> - 
 que simula o comportamento do usuário (ex: abre e fecha páginas na web) e <b> BeautifulSoup</b> - extrai dados em HTML.
